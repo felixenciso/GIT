@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Juan",
+        "surname": "Pérez",
+        "document": "12345678",
+        "phone": "+54 11 1234-5678",
+        "email": "juan.perez1@example.com",
+        "city": "Buenos Aires",
+        "sale_value": 15000.50,
+        "supplier": "Proveedor XYZ",
+        "products": [
+            {
+                "product_id": "001",
+                "description_products": "Laptop Dell XPS 13",
+                "purchase_order": "PO-1234"
+            },
+            {
+                "product_id": "002",
+                "description_products": "Mouse Logitech MX Master 3",
+                "purchase_order": "PO-1235"
+            }
+        ],
+        "employee_name": "Ana López",
+        "employee_salary": 50000.00
+    },
+    {
+        "name": "María",
+        "surname": "Gómez",
+        "document": "87654321",
+        "phone": "+54 11 8765-4321",
+        "email": "maria.gomez2@example.com",
+        "city": "Córdoba",
+        "sale_value": 23000.75,
+        "supplier": "Proveedor ABC",
+        "products": [
+            {
+                "product_id": "003",
+                "description_products": "Monitor Samsung 27\"",
+                "purchase_order": "PO-2234"
+            },
+            {
+                "product_id": "004",
+                "description_products": "Teclado mecánico Corsair",
+                "purchase_order": "PO-2235"
+            }
+        ],
+        "employee_name": "Carlos Méndez",
+        "employee_salary": 45000.00
+    },
+    {
+        "name": "Luis",
+        "surname": "Rodríguez",
+        "document": "11223344",
+        "phone": "+54 11 1122-3344",
+        "email": "luis.rodriguez3@example.com",
+        "city": "Rosario",
+        "sale_value": 45000.00,
+        "supplier": "Proveedor 123",
+        "products": [
+            {
+                "product_id": "005",
+                "description_products": "Impresora HP LaserJet",
+                "purchase_order": "PO-3234"
+            },
+            {
+                "product_id": "006",
+                "description_products": "Cartuchos de tinta",
+                "purchase_order": "PO-3235"
+            }
+        ],
+        "employee_name": "Beatriz Fernández",
+        "employee_salary": 47000.00
+    },
+    {
+        "name": "Ana",
+        "surname": "Martínez",
+        "document": "44332211",
+        "phone": "+54 11 4433-2211",
+        "email": "ana.martinez4@example.com",
+        "city": "Mendoza",
+        "sale_value": 12000.25,
+        "supplier": "Proveedor XYZ",
+        "products": [
+            {
+                "product_id": "007",
+                "description_products": "Tablet Apple iPad",
+                "purchase_order": "PO-4234"
+            },
+            {
+                "product_id": "008",
+                "description_products": "Funda para iPad",
+                "purchase_order": "PO-4235"
+            }
+        ],
+        "employee_name": "David González",
+        "employee_salary": 52000.00
+    },
+    {
+        "name": "Pedro",
+        "surname": "Sánchez",
+        "document": "33445566",
+        "phone": "+54 11 3344-5566",
+        "email": "pedro.sanchez5@example.com",
+        "city": "Salta",
+        "sale_value": 18500.00,
+        "supplier": "Proveedor ABC",
+        "products": [
+            {
+                "product_id": "009",
+                "description_products": "Smartphone Samsung Galaxy S21",
+                "purchase_order": "PO-5234"
+            },
+            {
+                "product_id": "010",
+                "description_products": "Auriculares Bluetooth",
+                "purchase_order": "PO-5235"
+            }
+        ],
+        "employee_name": "Elena Pérez",
+        "employee_salary": 54000.00
+    },
+    {
+        "name": "Lucía",
+        "surname": "Ramírez",
+        "document": "55443322",
+        "phone": "+54 11 5544-3322",
+        "email": "lucia.ramirez6@example.com",
+        "city": "Neuquén",
+        "sale_value": 9000.00,
+        "supplier": "Proveedor 123",
+        "products": [
+            {
+                "product_id": "011",
+                "description_products": "Cámara Canon EOS Rebel",
+                "purchase_order": "PO-6234"
+            },
+            {
+                "product_id": "012",
+                "description_products": "Trípode para cámara",
+                "purchase_order": "PO-6235"
+            }
+        ],
+        "employee_name": "Gustavo Romero",
+        "employee_salary": 50000.00
+    },
+    {
+        "name": "Jorge",
+        "surname": "López",
+        "document": "66778899",
+        "phone": "+54 11 6677-8899",
+        "email": "jorge.lopez7@example.com",
+        "city": "San Juan",
+        "sale_value": 21000.50,
+        "supplier": "Proveedor XYZ",
+        "products": [
+            {
+                "product_id": "013",
+                "description_products": "Consola PlayStation 5",
+                "purchase_order": "PO-7234"
+            },
+            {
+                "product_id": "014",
+                "description_products": "Juego FIFA 2024",
+                "purchase_order": "PO-7235"
+            }
+        ],
+        "employee_name": "Marta Sánchez",
+        "employee_salary": 48000.00
+    },
+    {
+        "name": "Carmen",
+        "surname": "Fernández",
+        "document": "99887766",
+        "phone": "+54 11 9988-7766",
+        "email": "carmen.fernandez8@example.com",
+        "city": "Tucumán",
+        "sale_value": 37000.75,
+        "supplier": "Proveedor ABC",
+        "products": [
+            {
+                "product_id": "015",
+                "description_products": "Reloj Apple Watch Series 7",
+                "purchase_order": "PO-8234"
+            },
+            {
+                "product_id": "016",
+                "description_products": "Correa para Apple Watch",
+                "purchase_order": "PO-8235"
+            }
+        ],
+        "employee_name": "Ricardo López",
+        "employee_salary": 49000.00
+    },
+    {
+        "name": "Sofía",
+        "surname": "Hernández",
+        "document": "11224433",
+        "phone": "+54 11 1122-4433",
+        "email": "sofia.hernandez9@example.com",
+        "city": "Santa Fe",
+        "sale_value": 14000.00,
+        "supplier": "Proveedor 123",
+        "products": [
+            {
+                "product_id": "017",
+                "description_products": "Auriculares Bose QuietComfort 35",
+                "purchase_order": "PO-9234"
+            },
+            {
+                "product_id": "018",
+                "description_products": "Funda para auriculares Bose",
+                "purchase_order": "PO-9235"
+            }
+        ],
+        "employee_name": "Paula Gómez",
+        "employee_salary": 46000.00
+    },
+    {
+        "name": "Carlos",
+        "surname": "García",
+        "document": "44331122",
+        "phone": "+54 11 4433-1122",
+        "email": "carlos.garcia10@example.com",
+        "city": "Jujuy",
+        "sale_value": 33000.25,
+        "supplier": "Proveedor XYZ",
+        "products": [
+            {
+                "product_id": "019",
+                "description_products": "Bicicleta Scott Speedster",
+                "purchase_order": "PO-10234"
+            },
+            {
+                "product_id": "020",
+                "description_products": "Casco de bicicleta",
+                "purchase_order": "PO-10235"
+            }
+        ],
+        "employee_name": "María López",
+        "employee_salary": 52000.00
+    },
+    {
+        "name": "José",
+        "surname": "Pérez",
+        "document": "55443311",
+        "phone": "+54 11 5544-3311",
+        "email": "jose.perez11@example.com",
+        "city": "Chaco",
+        "sale_value": 25000.50,
+        "supplier": "Proveedor ABC",
+        "products": [
+            {
+                "product_id": "021",
+                "description_products": "TV LG OLED 55\"",
+                "purchase_order": "PO-11234"
+            },
+            {
+                "product_id": "022",
+                "description_products": "Soporte de pared para TV",
+                "purchase_order": "PO-11235"
+            }
+        ],
+        "employee_name": "Javier Ramírez",
+        "employee_salary": 51000.00
+    },
+    {
+        "name": "Gabriela",
+        "surname": "Díaz",
+        "document": "66554433",
+        "phone": "+54 11 6655-4433",
+        "email": "gabriela.diaz12@example.com",
+        "city": "Corrientes",
+        "sale_value": "17000.00",
+        "supplier": "Proveedor 123",
+        "products": [
+            {
+                "product_id": "023",
+                "description_products": "Lavavajillas Bosch",
+                "purchase_order": "PO-12234"
+            },
+            {
+                "product_id": "024",
+                "description_products": "Detergente especial para lavavajillas",
+                "purchase_order": "PO-12235"
+            }
+        ],
+        "employee_name": "Laura Fernández",
+        "employee_salary": 47000.00
+    },
+    {
+        "name": "Miguel",
+        "surname": "Torres",
+        "document": "77665544",
+        "phone": "+54 11 7766-5544",
+        "email": "miguel.torres13@example.com",
+        "city": "Entre Ríos",
+        "sale_value": 39000.25,
+        "supplier": "Proveedor XYZ",
+        "products": [
+            {
+                "product_id": "025",
+                "description_products": "Refrigerador Samsung",
+                "purchase_order": "PO-13234"
+            },
+            {
+                "product_id": "026",
+                "description_products": "Filtro de agua para refrigerador",
+                "purchase_order": "PO-13235"
+            }
+        ],
+        "employee_name": "Luis González",
+        "employee_salary": 53000.00
+    },
+    {
+        "name": "Laura",
+        "surname": "Romero",
+        "document": "88776655",
+        "phone": "+54 11 8877-6655",
+        "email": "laura.romero14@example.com",
+        "city": "La Pampa",
+        "sale_value": 21000.00,
+        "supplier": "Proveedor ABC",
+        "products": [
+            {
+                "product_id": "027",
+                "description_products": "Cafetera Nespresso",
+                "purchase_order": "PO-14234"
+            },
+            {
+                "product_id": "028",
+                "description_products": "Cápsulas de café",
+                "purchase_order": "PO-14235"
+            }
+        ],
+        "employee_name": "Patricia Pérez",
+        "employee_salary": 54000.00
+    },
+    {
+        "name": "Diego",
+        "surname": "Vega",
+        "document": "99887755",
+        "phone": "+54 11 9988-7755",
+        "email": "diego.vega15@example.com",
+        "city": "Río Negro",
+        "sale_value": 46000.50,
+        "supplier": "Proveedor 123",
+        "products": [
+            {
+                "product_id": "029",
+                "description_products": "Lavadora LG",
+                "purchase_order": "PO-15234"
+            },
+            {
+                "product_id": "030",
+                "description_products": "Secadora LG",
+                "purchase_order": "PO-15235"
+            }
+        ],
+        "employee_name": "Rafael García",
+        "employee_salary": 51000.00
+    },
+    {
+        "name": "Verónica",
+        "surname": "Alvarez",
+        "document": "11009988",
+        "phone": "+54 11 1100-9988",
+        "email": "veronica.alvarez16@example.com",
+        "city": "Misiones",
+        "sale_value": 29000.25,
+        "supplier": "Proveedor XYZ",
+        "products": [
+            {
+                "product_id": "031",
+                "description_products": "Aspiradora Dyson",
+                "purchase_order": "PO-16234"
+            },
+            {
+                "product_id": "032",
+                "description_products": "Accesorios para aspiradora",
+                "purchase_order": "PO-16235"
+            }
+        ],
+        "employee_name": "Sergio Torres",
+        "employee_salary": 47000.00
+    },
+    {
+        "name": "Pablo",
+        "surname": "Morales",
+        "document": "22119988",
+        "phone": "+54 11 2211-9988",
+        "email": "pablo.morales17@example.com",
+        "city": "San Luis",
+        "sale_value": 34000.00,
+        "supplier": "Proveedor ABC",
+        "products": [
+            {
+                "product_id": "033",
+                "description_products": "Ventilador Dyson",
+                "purchase_order": "PO-17234"
+            },
+            {
+                "product_id": "034",
+                "description_products": "Control remoto para ventilador",
+                "purchase_order": "PO-17235"
+            }
+        ],
+        "employee_name": "Tomás Martínez",
+        "employee_salary": 48000.00
+    },
+    {
+        "name": "Alejandra",
+        "surname": "Giménez",
+        "document": "33221100",
+        "phone": "+54 11 3322-1100",
+        "email": "alejandra.gimenez18@example.com",
+        "city": "Santa Cruz",
+        "sale_value": 17500.50,
+        "supplier": "Proveedor 123",
+        "products": [
+            {
+                "product_id": "035",
+                "description_products": "Licuadora Philips",
+                "purchase_order": "PO-18234"
+            },
+            {
+                "product_id": "036",
+                "description_products": "Accesorios para licuadora",
+                "purchase_order": "PO-18235"
+            }
+        ],
+        "employee_name": "Matías Fernández",
+        "employee_salary": 49000.00
+    },
+    {
+        "name": "Fernanda",
+        "surname": "Navarro",
+        "document": "44332200",
+        "phone": "+54 11 4433-2200",
+        "email": "fernanda.navarro19@example.com",
+        "city": "Formosa",
+        "sale_value": 28000.75,
+        "supplier": "Proveedor XYZ",
+        "products": [
+            {
+                "product_id": "037",
+                "description_products": "Cocina Whirlpool",
+                "purchase_order": "PO-19234"
+            },
+            {
+                "product_id": "038",
+                "description_products": "Campana extractora Whirlpool",
+                "purchase_order": "PO-19235"
+            }
+        ],
+        "employee_name": "Joaquín Ramírez",
+        "employee_salary": 50000.00
+    },
+    {
+        "name": "Roberto",
+        "surname": "Cruz",
+        "document": "55443399",
+        "phone": "+54 11 5544-3399",
+        "email": "roberto.cruz20@example.com",
+        "city": "Catamarca",
+        "sale_value": 16000.00,
+        "supplier": "Proveedor ABC",
+        "products": [
+            {
+                "product_id": "039",
+                "description_products": "Horno microondas Samsung",
+                "purchase_order": "PO-20234"
+            },
+            {
+                "product_id": "040",
+                "description_products": "Plato giratorio para microondas",
+                "purchase_order": "PO-20235"
+            }
+        ],
+        "employee_name": "Diego Vega",
+        "employee_salary": 47000.00
+    }
+]
